@@ -1,4 +1,4 @@
-<h2 align="left">Hello ! This is Aarya Lekshmanan, A skillful developer and graphic designer.</h2>
+<h2 align="center">Hello ! This is Aarya Lekshmanan, A skillful developer and graphic designer.</h2>
 
 ###
 
